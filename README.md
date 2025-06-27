@@ -10,7 +10,6 @@
 
 Skills: Python, Django, My SQL
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning  learning Python with the Django framework, building API applications, and using MySQL as my database. 
 - 👯 I’m looking to collaborate on  backend development projects. Let’s build something great together! 
 - ⚡ Fun fact: I Am A Footballer, Tell Everyone 
